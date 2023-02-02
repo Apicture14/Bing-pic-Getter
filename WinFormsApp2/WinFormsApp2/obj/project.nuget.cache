@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "S2/R89rqXrk3ZrXYYUl0xA2smysQZyBl3yt9wvguEETbtXTSWBxngXJA9Y5Cywqn5BfzkWyr0np6v4zFPdNvmQ==",
+  "success": true,
+  "projectFilePath": "D:\\PROGRAM\\css\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\_yby\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512",
+    "C:\\Users\\_yby\\.nuget\\packages\\materialskin.2\\2.3.1\\materialskin.2.2.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
