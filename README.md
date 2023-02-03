@@ -15,7 +15,7 @@
 5. click "下载" button to download the picture.
 
 #### Fast get
-1. Click "快速下载今日图片" button
+1. Click "快速下载现在图片" button
 2. the program will get the lastest picture and the link will be shown in the textbox below with no description.
 3. After "下载" button is enabled, click it to download picture.
 
